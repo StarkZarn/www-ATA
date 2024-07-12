@@ -7,57 +7,105 @@ pageRef = "/"
 weight = 1
 
 [[main]]
-name = "About"
-pageRef = "/about"
+name = "About Us"
 weight = 2
 
 [[main]]
-name = "Elements"
-pageRef = "/elements"
+name = "Training"
 weight = 3
 
 [[main]]
 weight = 4
-name = "Pages"
+name = "Resources"
 
 [[main]]
-parent = "Pages"
-name = "Blog"
-pageRef = "/blog"
+weight = 5
+name = "Student Corner"
+
 
 [[main]]
-parent = "Pages"
-name = "Contact"
-pageRef = "/contact"
+parent = "About Us"
+name = "Instructors"
+pageRef = "/about/instructors"
 
 [[main]]
-parent = "Pages"
-name = "Authors"
-pageRef = "/authors"
+parent = "About Us"
+name = "Fleet"
+pageRef = "/about/fleet"
 
 [[main]]
-parent = "Pages"
-name = "Categories"
-pageRef = "/categories"
+parent = "About Us"
+name = "Rates & Policies"
+pageRef = "/about/rates-policies"
 
 [[main]]
-parent = "Pages"
-name = "404 Page"
-pageRef = "/404"
+parent = "Training"
+name = "Discovery Flights"
+pageRef = "/training/discovery-flights"
+
+[[main]]
+parent = "Training"
+name = "Private Pilot Training"
+pageRef = "/training/private-pilot-training"
+
+[[main]]
+parent = "Training"
+name = "Advanced Training"
+pageRef = "/training/advanced-training"
+
+[[main]]
+parent = "Training"
+name = "Foreflight and EFB Training"
+pageRef = "/training/glass-cockpit"
+
+[[main]]
+parent = "Resources"
+name = "Educational Materials"
+pageRef = "/resources/educational-materials"
+
+[[main]]
+parent = "Resources"
+name = "About Hobby Field"
+pageRef = "/resources/hobby-field"
+
+[[main]]
+parent = "Resources"
+name = "Medical Certification"
+pageRef = "/resources/medical-certification"
+
+[[main]]
+parent = "Resources"
+name = "Glossary"
+pageRef = "/resources/glossary"
+
+[[main]]
+parent = "Student Corner"
+name = "Media"
+pageRef = "/student-corner/media"
+
+[[main]]
+parent = "Student Corner"
+name = "Achievements"
+pageRef = "/student-corner/achievements"
+
+[[main]]
+parent = "Student Corner"
+name = "Testimonials"
+pageRef = "/student-corner/testimonials"
 
 
 # footer menu
 [[footer]]
-name = "About"
-pageRef = "/about"
+name = "Home"
+pageRef = "/"
 weight = 1
-
-[[footer]]
-name = "Elements"
-pageRef = "/elements"
-weight = 2
 
 [[footer]]
 name = "Privacy Policy"
 pageRef = "/privacy-policy"
+weight = 2
+
+[[footer]]
+name = "Site Map"
+url = "/site-map.xml"
 weight = 3

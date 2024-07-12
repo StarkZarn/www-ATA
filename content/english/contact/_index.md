@@ -1,6 +1,6 @@
 ---
-title: "Contact"
+title: "Contact Us"
 meta_title: ""
-description: "this is meta description"
+description: "Get in touch with About Time Aviation!"
 draft: false
 ---
