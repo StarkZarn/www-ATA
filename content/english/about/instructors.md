@@ -5,26 +5,35 @@ description: "About our flight training instructors"
 draft: false
 ---
 
-Jess Everson - CFII
-Work: 541-895-5984
-Cell: 541-513-1511
-Email: JessHEverson@gmail.com
+# Our Flight Instructors
 
-I took my first airplane ride in a sea plane when I was 8 years old, and from that moment on I was hooked. I earned my private pilot license in 1981, and continued my pilot education by adding instrument ratings and a commercial license. In 1989 I received my flight instructor license and have been enjoying my time in the air ever since.
+{{< accordion title="Jess Everson - CFII" >}}
+{{< notice "tip" >}}
+- Work: 541-895-5984
+- Cell: 541-513-1511
+- Email: JessHEverson@gmail.com
+{{< /notice >}}
+{{< notice "tip" >}}
 
-Many instructors view teaching as a way to quickly log hours and move on to another type of flying. As an instructor, I already have the job I want. Simply put, I love to teach. For this reason, I believe my students benefit from my thousands of hours spent teaching flying as a career.
+- I took my first airplane ride in a sea plane when I was 8 years old, and from that moment on I was hooked. I earned my private pilot license in 1981, and continued my pilot education by adding instrument ratings and a commercial license. In 1989 I received my flight instructor license and have been enjoying my time in the air ever since.
 
-I have taught students as young as 11 and others as old as 80. Everyone has a unique learning style, and it is rewarding to me to match my instructional approach to that style. Whether you are learning to fly for a pleasure, business, or as a career, I will match our program to your goals.
-My credentials are:
+- Many instructors view teaching as a way to quickly log hours and move on to another type of flying. As an instructor, I already have the job I want. Simply put, I love to teach. For this reason, I believe my students benefit from my thousands of hours spent teaching flying as a career.
 
-    Certified Flight Instructor (CFI)
-    Certified Flight Instructor – Instrument (CFII)
-    Private Pilot Certificate
-    Commercial Pilot Certificate
-    Instrument Rating
-    High Performance Endorsement
-    Tailwheel Endorsement         
-    D License Expert Skydiver, with 2,000+ Jumps
+- I have taught students as young as 11 and others as old as 80. Everyone has a unique learning style, and it is rewarding to me to match my instructional approach to that style. Whether you are learning to fly for a pleasure, business, or as a career, I will match our program to your goals.
+{{< /notice >}}
+
+{{< notice "tip" >}}
+**Credentials:**
+- Certified Flight Instructor (CFI)
+- Certified Flight Instructor – Instrument (CFII)
+- Private Pilot Certificate
+- Commercial Pilot Certificate
+- Instrument Rating
+- High Performance Endorsement
+- Tailwheel Endorsement         
+- D License Expert Skydiver, with 2,000+ Jumps
+{{< /notice >}}
+{{< /accordion >}}
 
 
 
