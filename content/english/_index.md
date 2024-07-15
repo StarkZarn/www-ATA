@@ -1,9 +1,9 @@
 ---
-# Banner (Bruce) 
+# Banner
 banner:
   title: "The Southern Willamette Valley's Premiere Flight School"
   content: "About Time Aviation is your resource for flight training, serving Creswell and the surrounding area. It's about time you learned to fly!"
-  image: "/images/banner.png"
+  image: "/images/Willamette_Valley_Real_Estate-plane.jpg"
   button:
     enable: true
     label: "Contact Us for a Discovery Flight"
@@ -11,43 +11,30 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "Welcome to About Time Aviation"
+    image: "/images/The-Shack-Small.jpg"
+    content: "Flying is fun! And at About Time Aviation we're committed to providing you the safest, highest quality flight instruction in the Southern Willamette Valley. So strap on your goggles and grab a long scarf, 'cause we're ready to teach you to fly!"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Pilot Training"
+      - "Complex Aircraft Training"
+      - "Instrument Rating"
+      - "Commerical Rating"
+      - "Tailored Training Plans"
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+  - title: "We're Ready to Teach You to Fly!"
+    image: "/images/Plane-Landing.jpg"
+    content: "About Time Aviation is Oregon's premiere, cost-effective flight training school, serving Eugene, Springfield, Creswell, Cottage Grove and the entire Southern Willamette Valley area."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Maximize flying time with minimum taxi-time"
+      - "Operated out of Creswell's Hobby Field (77s)"
+      - "Start your journey to becoming a pilot"
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "/contact"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
-    button:
-      enable: false
-      label: ""
-      link: ""
 ---
