@@ -1,6 +1,8 @@
 <h1 align="center">About Time Aviation Website Built with Hugo</h1>
 
+This is a website built with hugo, using the hugoplate theme. This is the main presence for About Time Aviation out of Creswell, OR.
 
+This is currently a work in progress/staging site for evaluation.
 
 ### 📦 Tech Stack
 
