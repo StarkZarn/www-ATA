@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "/"
+baseURL = "https://starkzarn.github.io/www-ATA/"
 # Title of your website (required).
 title = "About Time Aviation"
 # Your theme name
