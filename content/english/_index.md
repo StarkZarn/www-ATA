@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Contact Us for a Discovery Flight"
-    link: "/contact"
+    link: "contact"
 
 # Features
 features:
@@ -23,7 +23,7 @@ features:
     button:
       enable: false
       label: "Get Started Now"
-      link: "#"
+      link: "contact"
 
   - title: "We're Ready to Teach You to Fly!"
     image: "/images/Plane-Landing.jpg"
@@ -35,6 +35,6 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "/contact"
+      link: "contact"
 
 ---
