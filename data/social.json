@@ -4,6 +4,11 @@
       "name": "facebook",
       "icon": "fab fa-facebook",
       "link": "https://www.facebook.com/AboutTimeAviation"
+    },
+    {
+      "name": "twitter",
+      "icon": "fab fa-twitter",
+      "link": "https://x.com/AboutTimeAv"
     }
   ]
 }
