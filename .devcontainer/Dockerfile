@@ -2,8 +2,8 @@
 FROM node:20
 
 # Set environment variables for versions
-ARG HUGO_VERSION=0.126.1
-ARG GO_VERSION=1.22.3
+ARG HUGO_VERSION=0.129.0
+ARG GO_VERSION=1.22.5
 
 # Install dependencies
 RUN apt-get update && \
